@@ -1,0 +1,951 @@
+{
+    "catalogos":[
+       {
+          "Carrefour":{
+             "direccion":"Carretera Carretera De Cadiz Km 241, 29004, Málaga , ",
+             "poblacion":"Málaga",
+             "cp":29004,
+             "telefono":952708910,
+             "geolocalizacion":[
+                "40°28'11.2 N",
+                "3°18'23.4 W"
+             ],
+             "seccion":[
+                {
+                   "denominacion":"carniceria",
+                   "productos":{
+                      "vacuno":[
+                         {
+                            "tipo":"filetes",
+                            "modelos":[
+                               {
+                                  "nombre":"filete 1ªA carne de Madrid",
+                                  "precio":"6,97",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"30",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"filete novillo 1ªB de León",
+                                  "precio":"7,50",
+                                  "formato":"bandeja 700gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"20",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"estofado",
+                            "modelos":[
+                               {
+                                  "nombre":"carne de cerdo  para guisar Carrefour",
+                                  "precio":"2,25",
+                                  "formato":"bandeja 300gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"16",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"estofado de carne de Lugo",
+                                  "precio":"7,05",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"10",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"solomillo",
+                            "modelos":[
+                               {
+                                  "nombre":"solomillo de ternera gallega ",
+                                  "precio":"17,46",
+                                  "formato":"bandeja 350gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"solomillo de carne de Segovia",
+                                  "precio":"19,95",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"12",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "cerdo":[
+                         {
+                            "tipo":"chuletas",
+                            "modelos":[
+                               {
+                                  "nombre":"chuletas de lomo de cerdo Carrefour",
+                                  "precio":"4,10",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"28",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"chuletas de aguja de cerdo Carrefour",
+                                  "precio":"3,99",
+                                  "formato":"bandeja 1000gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"23",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"filetes",
+                            "modelos":[
+                               {
+                                  "nombre":"filetes de  lomo de cerdo Carrefour",
+                                  "precio":"5,64",
+                                  "formato":"bandeja 800gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"35",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"filetes de jamon de cerdo Carrefour",
+                                  "precio":"2,20",
+                                  "formato":"bandeja 450gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"22",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"presa",
+                            "modelos":[
+                               {
+                                  "nombre":"presa de cerdo iberico Libre",
+                                  "precio":"10,45",
+                                  "formato":"pieza 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"27",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"presa de cerdo iberico Carrefour",
+                                  "precio":"9,75",
+                                  "formato":"pieza 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"26",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "cordero":[
+                         {
+                            "tipo":"paleta",
+                            "modelos":[
+                               {
+                                  "nombre":"paleta de cordero al vacio Carrefour",
+                                  "precio":"12,90",
+                                  "formato":"pieza 1000gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"paletilla de cordero  de Calidad",
+                                  "precio":"13,90",
+                                  "formato":"pieza 1000gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"25",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"pierna",
+                            "modelos":[
+                               {
+                                  "nombre":"pierna de cordero Carrefour",
+                                  "precio":"18,25",
+                                  "formato":"pieza 1500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"24",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"pierna del cordero al vacio  de Calidad",
+                                  "precio":"7,74",
+                                  "formato":"pieza 600gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"35",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"chuletas",
+                            "modelos":[
+                               {
+                                  "nombre":"chuletillas de cordero lechal ",
+                                  "precio":"9,58",
+                                  "formato":"bandeja 400gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"27",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"chuletas de cordero para barbacoa Madre",
+                                  "precio":"6,88",
+                                  "formato":"bandeja 400gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"25",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ]
+                   }
+                },
+                {
+                   "denominacion":"pescaderia",
+                   "productos":{
+                      "pescadoFresco":[
+                         {
+                            "tipo":"atun",
+                            "modelos":[
+                               {
+                                  "nombre":"lomo de atun Carrefour",
+                                  "precio":"4,04",
+                                  "formato":"bandeja 300gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"atun para sushi Gimarar",
+                                  "precio":"7,50",
+                                  "formato":"bandeja 150gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"21",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"bacaladilla",
+                            "modelos":[
+                               {
+                                  "nombre":"bacaladilla Carrefour",
+                                  "precio":"1,45",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"25",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"bacaladilla en filete Carrefour",
+                                  "precio":"3,95",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"30",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"dorada",
+                            "modelos":[
+                               {
+                                  "nombre":"dorada de  Carrefour",
+                                  "precio":"3,75",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"dorada de racion  de Calidad",
+                                  "precio":"5,75",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"25",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "mariscoAlmejasMejillones":[
+                         {
+                            "tipo":"marisco",
+                            "modelos":[
+                               {
+                                  "nombre":"langostino cocido (20/10 und) Carrefour",
+                                  "precio":"4,37",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"26",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"cigala terciada (8/10 und) Carrefour",
+                                  "precio":"11,95",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"37",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"almejas",
+                            "modelos":[
+                               {
+                                  "nombre":"almeja marinera fresca Carrefour",
+                                  "precio":"5,48",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"25",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"coquinas  Carrefour",
+                                  "precio":"5,50",
+                                  "formato":"bandeja 500gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"34",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"mejillones",
+                            "modelos":[
+                               {
+                                  "nombre":"mejillon fresco cocido en su jugo Marimar",
+                                  "precio":"8,95",
+                                  "formato":"envase 800gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"25",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"mejillon  Carrefour",
+                                  "precio":"3,95",
+                                  "formato":"envase 800gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"34",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "pescadoMariscoCongelado":[
+                         {
+                            "tipo":"bacalao",
+                            "modelos":[
+                               {
+                                  "nombre":"taco de bacalao  congelado Carrefour",
+                                  "precio":"5,95",
+                                  "formato":"pieza 400gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"lomo de bacalao congelado Carrefour",
+                                  "precio":"8,20",
+                                  "formato":"pieza 400gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"28",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"gamba",
+                            "modelos":[
+                               {
+                                  "nombre":"gamba cocida congelada Carrefour",
+                                  "precio":"11,90",
+                                  "formato":"caja 600gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"35",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"gamba pequeña congelada Pesca",
+                                  "precio":"4,65",
+                                  "formato":"envase 400gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"45",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"pulpo",
+                            "modelos":[
+                               {
+                                  "nombre":"pulpo congelado Carrefour",
+                                  "precio":"10,90",
+                                  "formato":"pieza 1000gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"22",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"pata de pulpo cocida congelada Carrefour",
+                                  "precio":"8,95",
+                                  "formato":"bandeja 250gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ]
+                   }
+                }
+             ]
+          }
+       },
+       {
+          "Alcampo":{
+             "direccion":"C.C. La Cañada, 29600, Marbella (Málaga)",
+             "poblacion":"Malaga",
+             "cp":29600,
+             "telefono":952555222,
+             "geolocalizacion":[
+                "30°18'59.4 N",
+                "1°42'26.0 W"
+             ],
+             "seccion":[
+                {
+                   "denominacion":"leche, huevos y yogures",
+                   "productos":{
+                      "leche":[
+                         {
+                            "tipo":"vaca",
+                            "modelos":[
+                               {
+                                  "nombre":"leche semidesnatada  Asturiana",
+                                  "precio":"0,74",
+                                  "formato":"brick 1l",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"64",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"leche desnatada Pascual",
+                                  "precio":"0,79",
+                                  "formato":"brick 1l",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"59",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"sin lactosa",
+                            "modelos":[
+                               {
+                                  "nombre":"lecha entera  Kaiku",
+                                  "precio":"0,98",
+                                  "formato":"brick 1l",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"32",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"leche desnatada sin lactosa Celta",
+                                  "precio":"0,98",
+                                  "formato":"brick 1l",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"29",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"cabra y oveja",
+                            "modelos":[
+                               {
+                                  "nombre":"leche  semidesnatada Cocab",
+                                  "precio":"1,18",
+                                  "formato":"brick 1l",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"25",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"leche de oveja semidesnatada Cocap",
+                                  "precio":"1,87",
+                                  "formato":"brick 1l",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"11",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "huevos":[
+                         {
+                            "tamaño":"S-M",
+                            "modelos":[
+                               {
+                                  "nombre":"huevos categoria A clase Caponata",
+                                  "precio":"1,12",
+                                  "formato":"carton 12und",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"64",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"huevos categoria A clase M Pio",
+                                  "precio":"1,25",
+                                  "formato":"carton 12und",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"59",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tamaño":"L",
+                            "modelos":[
+                               {
+                                  "nombre":"huevos categoria A clase L Piando",
+                                  "precio":"1,49",
+                                  "formato":"carton 12und",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"53",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"huevos categoria A clase L Pitasas",
+                                  "precio":"1,39",
+                                  "formato":"carton 12und",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"44",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tamaño":"XL",
+                            "modelos":[
+                               {
+                                  "nombre":"huevos categoria A clase XL Libre",
+                                  "precio":"2,27",
+                                  "formato":"carton 12und",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"35",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"huevos categoria A clase XL Pitas",
+                                  "precio":"2,63",
+                                  "formato":"carton 12und",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"26",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "yogures":[
+                         {
+                            "tipo":"griegos y cremosos",
+                            "modelos":[
+                               {
+                                  "nombre":"yogurt griego natural Oikos",
+                                  "precio":"1,68",
+                                  "formato":"4 und x 110gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"54",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"yogurt cremoso artesanal con fresas Danone",
+                                  "precio":"1,07",
+                                  "formato":"2 und x 135gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"75",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"bifidus",
+                            "modelos":[
+                               {
+                                  "nombre":"bifidus con avena y nueces Activia",
+                                  "precio":"2,08",
+                                  "formato":"4 und x 120gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"73",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"bifidus sabor vainilla y canela con trocitos de pera ",
+                                  "precio":"1,65",
+                                  "formato":"4 und x 125gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"75",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"sabores",
+                            "modelos":[
+                               {
+                                  "nombre":"yogurt pasteurizado sabor naranja Pascual",
+                                  "precio":"1,00",
+                                  "formato":"4 und x 125gr",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"72",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"yogurt con mandarina y zumo de pera Dhul",
+                                  "precio":"4,48",
+                                  "formato":"2 und x 150gr",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ]
+                   }
+                },
+                {
+                   "denominacion":"bebidas",
+                   "productos":{
+                      "refrescos":[
+                         {
+                            "sabor":"cola",
+                            "modelos":[
+                               {
+                                  "nombre":"refresco de cola Coca-Cola",
+                                  "precio":"0,74",
+                                  "formato":"lata 33cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"85",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"refresco de cola Pepsi",
+                                  "precio":"0,44",
+                                  "formato":"lata 33cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"39",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "sabor":"naranja y limon",
+                            "modelos":[
+                               {
+                                  "nombre":"refresco de naranja Fanta",
+                                  "precio":"0,46",
+                                  "formato":"lata 33cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"425",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"refresco de limon Schweppes",
+                                  "precio":"0,75",
+                                  "formato":"lata 33cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"19",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "sabor":"tonica y bitter",
+                            "modelos":[
+                               {
+                                  "nombre":"tonica clasica Schweppes",
+                                  "precio":"1,49",
+                                  "formato":"lata 33cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"15",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"tonica pink Schweppes",
+                                  "precio":"0,64",
+                                  "formato":"lata 33cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"12",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "cervezas":[
+                         {
+                            "formato":"lata",
+                            "modelos":[
+                               {
+                                  "nombre":"cerveza doble malta Voll-Damm",
+                                  "precio":"0,69",
+                                  "formato":"lata 33cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"62",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"cerveza Alhambra premium ",
+                                  "precio":"0,56",
+                                  "formato":"lata 33cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"57",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "formato":"botella",
+                            "modelos":[
+                               {
+                                  "nombre":"cerveza tostada Mahou ",
+                                  "precio":"0,95",
+                                  "formato":"botella 33cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"22",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"cerveza 1906  especial",
+                                  "precio":"1,42",
+                                  "formato":"botella 50cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"43",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ],
+                      "vinos":[
+                         {
+                            "tipo":"tinto",
+                            "modelos":[
+                               {
+                                  "nombre":"vino tinto Señorio de los Llanos",
+                                  "precio":"1,94",
+                                  "formato":"botella 75cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"51",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"vino tinto Protos",
+                                  "precio":"8,25",
+                                  "formato":"botella 75cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"45",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"blanco",
+                            "modelos":[
+                               {
+                                  "nombre":"vino blanco Mayor del Reino",
+                                  "precio":"3,28",
+                                  "formato":"botella 75cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"30",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"vino blanco Marques de Málaga",
+                                  "precio":"7,19",
+                                  "formato":"botella 75cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"10/04/23",
+                                  "fechaFinOferta":"25/04/23",
+                                  "stock":"25",
+                                  "adquirido":false
+                               }
+                            ]
+                         },
+                         {
+                            "tipo":"rosado",
+                            "modelos":[
+                               {
+                                  "nombre":"vino rosado Prontos",
+                                  "precio":"8,00",
+                                  "formato":"botella 75cl",
+                                  "oferta":true,
+                                  "fechaInicioOferta":"15/04/23",
+                                  "fechaFinOferta":"30/04/23",
+                                  "stock":"22",
+                                  "adquirido":false
+                               },
+                               {
+                                  "nombre":"vino rosado Marques de Beber",
+                                  "precio":"5,13",
+                                  "formato":"botella 75cl",
+                                  "oferta":false,
+                                  "fechaInicioOferta":null,
+                                  "fechaFinOferta":null,
+                                  "stock":"25",
+                                  "adquirido":false
+                               }
+                            ]
+                         }
+                      ]
+                   }
+                }
+             ]
+          }
+       }
+    ]
+ }

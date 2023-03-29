@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <catalogos>
+    <Carrefour>
+      <direccion>Carretera Carretera De Cadiz Km 241, 29004, Málaga , </direccion>
+      <poblacion>Málaga</poblacion>
+      <cp>29004</cp>
+      <telefono>952708910</telefono>
+      <geolocalizacion>40°28&#x27;11.2 N</geolocalizacion>
+      <geolocalizacion>3°18&#x27;23.4 W</geolocalizacion>
+      <seccion>
+        <denominacion>carniceria</denominacion>
+        <productos>
+          <vacuno>
+            <tipo>filetes</tipo>
+            <modelos>
+              <nombre>filete 1ªA carne de Madrid</nombre>
+              <precio>6,97</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>30</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>filete novillo 1ªB de León</nombre>
+              <precio>7,50</precio>
+              <formato>bandeja 700gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>20</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </vacuno>
+          <vacuno>
+            <tipo>estofado</tipo>
+            <modelos>
+              <nombre>carne de cerdo  para guisar Carrefour</nombre>
+              <precio>2,25</precio>
+              <formato>bandeja 300gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>16</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>estofado de carne de Lugo</nombre>
+              <precio>7,05</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>10</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </vacuno>
+          <vacuno>
+            <tipo>solomillo</tipo>
+            <modelos>
+              <nombre>solomillo de ternera gallega </nombre>
+              <precio>17,46</precio>
+              <formato>bandeja 350gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>solomillo de carne de Segovia</nombre>
+              <precio>19,95</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>12</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </vacuno>
+          <cerdo>
+            <tipo>chuletas</tipo>
+            <modelos>
+              <nombre>chuletas de lomo de cerdo Carrefour</nombre>
+              <precio>4,10</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>28</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>chuletas de aguja de cerdo Carrefour</nombre>
+              <precio>3,99</precio>
+              <formato>bandeja 1000gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>23</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cerdo>
+          <cerdo>
+            <tipo>filetes</tipo>
+            <modelos>
+              <nombre>filetes de  lomo de cerdo Carrefour</nombre>
+              <precio>5,64</precio>
+              <formato>bandeja 800gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>35</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>filetes de jamon de cerdo Carrefour</nombre>
+              <precio>2,20</precio>
+              <formato>bandeja 450gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>22</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cerdo>
+          <cerdo>
+            <tipo>presa</tipo>
+            <modelos>
+              <nombre>presa de cerdo iberico Libre</nombre>
+              <precio>10,45</precio>
+              <formato>pieza 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>27</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>presa de cerdo iberico Carrefour</nombre>
+              <precio>9,75</precio>
+              <formato>pieza 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>26</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cerdo>
+          <cordero>
+            <tipo>paleta</tipo>
+            <modelos>
+              <nombre>paleta de cordero al vacio Carrefour</nombre>
+              <precio>12,90</precio>
+              <formato>pieza 1000gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>paletilla de cordero  de Calidad</nombre>
+              <precio>13,90</precio>
+              <formato>pieza 1000gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cordero>
+          <cordero>
+            <tipo>pierna</tipo>
+            <modelos>
+              <nombre>pierna de cordero Carrefour</nombre>
+              <precio>18,25</precio>
+              <formato>pieza 1500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>24</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>pierna del cordero al vacio  de Calidad</nombre>
+              <precio>7,74</precio>
+              <formato>pieza 600gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>35</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cordero>
+          <cordero>
+            <tipo>chuletas</tipo>
+            <modelos>
+              <nombre>chuletillas de cordero lechal </nombre>
+              <precio>9,58</precio>
+              <formato>bandeja 400gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>27</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>chuletas de cordero para barbacoa Madre</nombre>
+              <precio>6,88</precio>
+              <formato>bandeja 400gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cordero>
+        </productos>
+      </seccion>
+      <seccion>
+        <denominacion>pescaderia</denominacion>
+        <productos>
+          <pescadoFresco>
+            <tipo>atun</tipo>
+            <modelos>
+              <nombre>lomo de atun Carrefour</nombre>
+              <precio>4,04</precio>
+              <formato>bandeja 300gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>atun para sushi Gimarar</nombre>
+              <precio>7,50</precio>
+              <formato>bandeja 150gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>21</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </pescadoFresco>
+          <pescadoFresco>
+            <tipo>bacaladilla</tipo>
+            <modelos>
+              <nombre>bacaladilla Carrefour</nombre>
+              <precio>1,45</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>bacaladilla en filete Carrefour</nombre>
+              <precio>3,95</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>30</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </pescadoFresco>
+          <pescadoFresco>
+            <tipo>dorada</tipo>
+            <modelos>
+              <nombre>dorada de  Carrefour</nombre>
+              <precio>3,75</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>dorada de racion  de Calidad</nombre>
+              <precio>5,75</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </pescadoFresco>
+          <mariscoAlmejasMejillones>
+            <tipo>marisco</tipo>
+            <modelos>
+              <nombre>langostino cocido (20/10 und) Carrefour</nombre>
+              <precio>4,37</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>26</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>cigala terciada (8/10 und) Carrefour</nombre>
+              <precio>11,95</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>37</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </mariscoAlmejasMejillones>
+          <mariscoAlmejasMejillones>
+            <tipo>almejas</tipo>
+            <modelos>
+              <nombre>almeja marinera fresca Carrefour</nombre>
+              <precio>5,48</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>coquinas  Carrefour</nombre>
+              <precio>5,50</precio>
+              <formato>bandeja 500gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>34</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </mariscoAlmejasMejillones>
+          <mariscoAlmejasMejillones>
+            <tipo>mejillones</tipo>
+            <modelos>
+              <nombre>mejillon fresco cocido en su jugo Marimar</nombre>
+              <precio>8,95</precio>
+              <formato>envase 800gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>mejillon  Carrefour</nombre>
+              <precio>3,95</precio>
+              <formato>envase 800gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>34</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </mariscoAlmejasMejillones>
+          <pescadoMariscoCongelado>
+            <tipo>bacalao</tipo>
+            <modelos>
+              <nombre>taco de bacalao  congelado Carrefour</nombre>
+              <precio>5,95</precio>
+              <formato>pieza 400gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>lomo de bacalao congelado Carrefour</nombre>
+              <precio>8,20</precio>
+              <formato>pieza 400gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>28</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </pescadoMariscoCongelado>
+          <pescadoMariscoCongelado>
+            <tipo>gamba</tipo>
+            <modelos>
+              <nombre>gamba cocida congelada Carrefour</nombre>
+              <precio>11,90</precio>
+              <formato>caja 600gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>35</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>gamba pequeña congelada Pesca</nombre>
+              <precio>4,65</precio>
+              <formato>envase 400gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>45</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </pescadoMariscoCongelado>
+          <pescadoMariscoCongelado>
+            <tipo>pulpo</tipo>
+            <modelos>
+              <nombre>pulpo congelado Carrefour</nombre>
+              <precio>10,90</precio>
+              <formato>pieza 1000gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>22</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>pata de pulpo cocida congelada Carrefour</nombre>
+              <precio>8,95</precio>
+              <formato>bandeja 250gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </pescadoMariscoCongelado>
+        </productos>
+      </seccion>
+    </Carrefour>
+  </catalogos>
+  <catalogos>
+    <Alcampo>
+      <direccion>C.C. La Cañada, 29600, Marbella (Málaga)</direccion>
+      <poblacion>Malaga</poblacion>
+      <cp>29600</cp>
+      <telefono>952555222</telefono>
+      <geolocalizacion>30°18&#x27;59.4 N</geolocalizacion>
+      <geolocalizacion>1°42&#x27;26.0 W</geolocalizacion>
+      <seccion>
+        <denominacion>leche, huevos y yogures</denominacion>
+        <productos>
+          <leche>
+            <tipo>vaca</tipo>
+            <modelos>
+              <nombre>leche semidesnatada  Asturiana</nombre>
+              <precio>0,74</precio>
+              <formato>brick 1l</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>64</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>leche desnatada Pascual</nombre>
+              <precio>0,79</precio>
+              <formato>brick 1l</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>59</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </leche>
+          <leche>
+            <tipo>sin lactosa</tipo>
+            <modelos>
+              <nombre>lecha entera  Kaiku</nombre>
+              <precio>0,98</precio>
+              <formato>brick 1l</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>32</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>leche desnatada sin lactosa Celta</nombre>
+              <precio>0,98</precio>
+              <formato>brick 1l</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>29</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </leche>
+          <leche>
+            <tipo>cabra y oveja</tipo>
+            <modelos>
+              <nombre>leche  semidesnatada Cocab</nombre>
+              <precio>1,18</precio>
+              <formato>brick 1l</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>leche de oveja semidesnatada Cocap</nombre>
+              <precio>1,87</precio>
+              <formato>brick 1l</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>11</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </leche>
+          <huevos>
+            <tamaño>S-M</tamaño>
+            <modelos>
+              <nombre>huevos categoria A clase Caponata</nombre>
+              <precio>1,12</precio>
+              <formato>carton 12und</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>64</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>huevos categoria A clase M Pio</nombre>
+              <precio>1,25</precio>
+              <formato>carton 12und</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>59</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </huevos>
+          <huevos>
+            <tamaño>L</tamaño>
+            <modelos>
+              <nombre>huevos categoria A clase L Piando</nombre>
+              <precio>1,49</precio>
+              <formato>carton 12und</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>53</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>huevos categoria A clase L Pitasas</nombre>
+              <precio>1,39</precio>
+              <formato>carton 12und</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>44</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </huevos>
+          <huevos>
+            <tamaño>XL</tamaño>
+            <modelos>
+              <nombre>huevos categoria A clase XL Libre</nombre>
+              <precio>2,27</precio>
+              <formato>carton 12und</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>35</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>huevos categoria A clase XL Pitas</nombre>
+              <precio>2,63</precio>
+              <formato>carton 12und</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>26</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </huevos>
+          <yogures>
+            <tipo>griegos y cremosos</tipo>
+            <modelos>
+              <nombre>yogurt griego natural Oikos</nombre>
+              <precio>1,68</precio>
+              <formato>4 und x 110gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>54</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>yogurt cremoso artesanal con fresas Danone</nombre>
+              <precio>1,07</precio>
+              <formato>2 und x 135gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>75</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </yogures>
+          <yogures>
+            <tipo>bifidus</tipo>
+            <modelos>
+              <nombre>bifidus con avena y nueces Activia</nombre>
+              <precio>2,08</precio>
+              <formato>4 und x 120gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>73</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>bifidus sabor vainilla y canela con trocitos de pera </nombre>
+              <precio>1,65</precio>
+              <formato>4 und x 125gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>75</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </yogures>
+          <yogures>
+            <tipo>sabores</tipo>
+            <modelos>
+              <nombre>yogurt pasteurizado sabor naranja Pascual</nombre>
+              <precio>1,00</precio>
+              <formato>4 und x 125gr</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>72</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>yogurt con mandarina y zumo de pera Dhul</nombre>
+              <precio>4,48</precio>
+              <formato>2 und x 150gr</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </yogures>
+        </productos>
+      </seccion>
+      <seccion>
+        <denominacion>bebidas</denominacion>
+        <productos>
+          <refrescos>
+            <sabor>cola</sabor>
+            <modelos>
+              <nombre>refresco de cola Coca-Cola</nombre>
+              <precio>0,74</precio>
+              <formato>lata 33cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>85</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>refresco de cola Pepsi</nombre>
+              <precio>0,44</precio>
+              <formato>lata 33cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>39</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </refrescos>
+          <refrescos>
+            <sabor>naranja y limon</sabor>
+            <modelos>
+              <nombre>refresco de naranja Fanta</nombre>
+              <precio>0,46</precio>
+              <formato>lata 33cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>425</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>refresco de limon Schweppes</nombre>
+              <precio>0,75</precio>
+              <formato>lata 33cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>19</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </refrescos>
+          <refrescos>
+            <sabor>tonica y bitter</sabor>
+            <modelos>
+              <nombre>tonica clasica Schweppes</nombre>
+              <precio>1,49</precio>
+              <formato>lata 33cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>15</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>tonica pink Schweppes</nombre>
+              <precio>0,64</precio>
+              <formato>lata 33cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>12</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </refrescos>
+          <cervezas>
+            <formato>lata</formato>
+            <modelos>
+              <nombre>cerveza doble malta Voll-Damm</nombre>
+              <precio>0,69</precio>
+              <formato>lata 33cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>62</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>cerveza Alhambra premium </nombre>
+              <precio>0,56</precio>
+              <formato>lata 33cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>57</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cervezas>
+          <cervezas>
+            <formato>botella</formato>
+            <modelos>
+              <nombre>cerveza tostada Mahou </nombre>
+              <precio>0,95</precio>
+              <formato>botella 33cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>22</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>cerveza 1906  especial</nombre>
+              <precio>1,42</precio>
+              <formato>botella 50cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>43</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </cervezas>
+          <vinos>
+            <tipo>tinto</tipo>
+            <modelos>
+              <nombre>vino tinto Señorio de los Llanos</nombre>
+              <precio>1,94</precio>
+              <formato>botella 75cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>51</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>vino tinto Protos</nombre>
+              <precio>8,25</precio>
+              <formato>botella 75cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>45</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </vinos>
+          <vinos>
+            <tipo>blanco</tipo>
+            <modelos>
+              <nombre>vino blanco Mayor del Reino</nombre>
+              <precio>3,28</precio>
+              <formato>botella 75cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>30</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>vino blanco Marques de Málaga</nombre>
+              <precio>7,19</precio>
+              <formato>botella 75cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>10/04/23</fechaInicioOferta>
+              <fechaFinOferta>25/04/23</fechaFinOferta>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </vinos>
+          <vinos>
+            <tipo>rosado</tipo>
+            <modelos>
+              <nombre>vino rosado Prontos</nombre>
+              <precio>8,00</precio>
+              <formato>botella 75cl</formato>
+              <oferta>true</oferta>
+              <fechaInicioOferta>15/04/23</fechaInicioOferta>
+              <fechaFinOferta>30/04/23</fechaFinOferta>
+              <stock>22</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+            <modelos>
+              <nombre>vino rosado Marques de Beber</nombre>
+              <precio>5,13</precio>
+              <formato>botella 75cl</formato>
+              <oferta>false</oferta>
+              <fechaInicioOferta/>
+              <fechaFinOferta/>
+              <stock>25</stock>
+              <adquirido>false</adquirido>
+            </modelos>
+          </vinos>
+        </productos>
+      </seccion>
+    </Alcampo>
+  </catalogos>
+</root>
